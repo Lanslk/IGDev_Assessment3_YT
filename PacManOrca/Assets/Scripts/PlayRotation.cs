@@ -22,5 +22,33 @@ public class PlayRotation : MonoBehaviour
                 audioSource.Play();
             }
         }
+        
+        if (Input.GetKeyDown(KeyCode.LeftArrow)) {
+            animatorController.SetTrigger("LeftArrow");
+            if (audioSource) {
+                audioSource.Play();
+            }
+        }
+        
+        if (Input.GetKeyDown(KeyCode.RightArrow)) {
+            animatorController.SetTrigger("RightArrow");
+            if (audioSource) {
+                audioSource.Play();
+            }
+        }
+        
+        if (Input.GetKeyDown(KeyCode.UpArrow)) {
+            animatorController.SetTrigger("UpArrow");
+            if (audioSource) {
+                audioSource.Play();
+            }
+        }
+        
+        if (Input.GetKeyDown(KeyCode.DownArrow)) {
+            animatorController.SetTrigger("DownArrow");
+            if (audioSource) {
+                audioSource.Play();
+            }
+        }
     }
 }
