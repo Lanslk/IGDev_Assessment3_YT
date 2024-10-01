@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 42bb405a9b77348a9a60b8326f4f8786
+guid: c2c2bc59e1e844dd89bd03aa64daa423
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -44,7 +44,7 @@ TextureImporter:
   lightmap: 0
   compressionQuality: 50
   spriteMode: 2
-  spriteExtrude: 0
+  spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
@@ -100,10 +100,10 @@ TextureImporter:
       name: Normal pellet_0
       rect:
         serializedVersion: 2
-        x: 36
-        y: 56
-        width: 48
-        height: 24
+        x: 9
+        y: 14
+        width: 12
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -111,8 +111,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ae37fd352a4de4d78b2cb89052e6fd5a
-      internalID: -2006757187
+      spriteID: e98b60f83713f4dc3a60d4d30d5aa43d
+      internalID: 1044874618
       vertices: []
       indices: 
       edges: []
@@ -120,7 +120,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 37affb51b7e64480d886fe6730e586dd
+    spriteID: 18649718482154c699438537e905234e
     internalID: 0
     vertices: []
     indices: 
@@ -128,7 +128,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Normal pellet_0: -2006757187
+      Normal pellet_0: 1044874618
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
