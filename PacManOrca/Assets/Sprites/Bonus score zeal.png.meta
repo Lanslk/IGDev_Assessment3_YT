@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 339a62fa2a36443b0bfdd78429cf7004
+guid: 887d27ec9816b487a9ecfe65838fb2b8
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 128
+  spritePixelsToUnits: 512
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
@@ -97,13 +97,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Bonus score zeal_0
+      name: Bonus score zeal 1_0
       rect:
         serializedVersion: 2
-        x: 28
-        y: 12
-        width: 100
-        height: 80
+        x: 7
+        y: 3
+        width: 25
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -111,8 +111,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa9eb165a59094af9936a8045afec4a3
-      internalID: -119774168
+      spriteID: 78304aa45c4ac4cb3a3a22456cb5ed4e
+      internalID: 1939194407
       vertices: []
       indices: 
       edges: []
@@ -120,7 +120,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: c0eb2b324b3fa4835823612a3c08fce4
+    spriteID: 33cee608ade5b4919b48f8f2bcce8e1f
     internalID: 0
     vertices: []
     indices: 
@@ -128,7 +128,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Bonus score zeal_0: -119774168
+      Bonus score zeal 1_0: 1939194407
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
