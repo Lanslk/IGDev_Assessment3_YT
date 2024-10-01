@@ -7,6 +7,8 @@ public class GenerateMap : MonoBehaviour
     
     public GameObject[] tilePrefabs; // Array of prefabs indexed from 1 to 7
 
+    public GameObject PacStudent;
+    
     public float tileSize = 0.00125f; // Size of each tile (in Unity units)
 
     // The provided level map array
@@ -31,6 +33,9 @@ public class GenerateMap : MonoBehaviour
 
     void Start()
     {
+        // Vector3 position = new Vector3(0.4f, -0.42f, 0f);
+        // Instantiate(PacStudent, position, Quaternion.identity, transform);
+        
         BuildLevel();
     }
 
