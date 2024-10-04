@@ -16,61 +16,36 @@ public class PlayRotation : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (Input.GetKeyDown(KeyCode.Space)) {
+            animatorController.SetTrigger("RotateParam");
+            if (audioSource) {
+                audioSource.Play();
+            }
+        }
+        
         if (Input.GetKeyDown(KeyCode.LeftArrow)) {
-            //transform.rotation = Quaternion.Euler(0, 0, 0);
-            animatorController.SetInteger("Direction", 3);
-            
+            animatorController.SetTrigger("LeftArrow");
             if (audioSource) {
                 audioSource.Play();
             }
         }
         
         if (Input.GetKeyDown(KeyCode.RightArrow)) {
-            //transform.rotation = Quaternion.Euler(0, 0, -0);
-            animatorController.SetInteger("Direction", 1);
-            
+            animatorController.SetTrigger("RightArrow");
             if (audioSource) {
                 audioSource.Play();
             }
         }
         
         if (Input.GetKeyDown(KeyCode.UpArrow)) {
-            //transform.rotation = Quaternion.Euler(0, 0, -90);
-            animatorController.SetInteger("Direction", 4);
-            
+            animatorController.SetTrigger("UpArrow");
             if (audioSource) {
                 audioSource.Play();
             }
         }
         
         if (Input.GetKeyDown(KeyCode.DownArrow)) {
-            //transform.rotation = Quaternion.Euler(0, 0, 90);
-            animatorController.SetInteger("Direction", 2);
-            
-            if (audioSource) {
-                audioSource.Play();
-            }
-        }
-        
-        if (Input.GetKeyDown(KeyCode.Space)) {
-            animatorController.SetInteger("Direction", 5);
-            
-            if (audioSource) {
-                audioSource.Play();
-            }
-        }
-        
-        if (Input.GetKeyDown(KeyCode.R)) {
-            animatorController.SetInteger("Direction", 6);
-            
-            if (audioSource) {
-                audioSource.Play();
-            }
-        }
-        
-        if (Input.GetKeyDown(KeyCode.D)) {
-            animatorController.SetInteger("Direction", 7);
-            
+            animatorController.SetTrigger("DownArrow");
             if (audioSource) {
                 audioSource.Play();
             }

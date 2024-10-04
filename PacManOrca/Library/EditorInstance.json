@@ -1,9 +1,13 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
 	"process_id" : 1374,
 =======
 	"process_id" : 2211,
 >>>>>>> Feature-VIsual
+=======
+	"process_id" : 1879,
+>>>>>>> parent of 602a27c (Add PacStduent and ghost animations)
 	"version" : "2023.2.10f1",
 	"app_path" : "/Applications/Unity/Hub/Editor/2023.2.10f1/Unity.app",
 	"app_contents_path" : "/Applications/Unity/Hub/Editor/2023.2.10f1/Unity.app/Contents"

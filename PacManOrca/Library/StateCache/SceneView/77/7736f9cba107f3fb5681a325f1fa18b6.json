@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":0.26643380522727969,"y":-0.276305615901947,"z":-0.08527568727731705},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":0.6266228556632996,"orthographic":true}
 =======
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":0.44999998807907107,"y":-0.41999998688697817,"z":0.0},"rotation":{"x":-0.06894495338201523,"y":-0.0029928572475910188,"z":-0.00020683555339928716,"w":0.9976159930229187},"size":0.1015942320227623,"orthographic":true}
 >>>>>>> Feature-VIsual
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":0.128750279545784,"y":-0.061543792486190799,"z":0.011510561220347882},"rotation":{"x":-0.0002920422703027725,"y":0.9952467083930969,"z":-0.09734520316123963,"w":-0.0029858085326850416},"size":0.3574427366256714,"orthographic":false}
+>>>>>>> parent of 602a27c (Add PacStduent and ghost animations)

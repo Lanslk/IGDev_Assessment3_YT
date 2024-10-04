@@ -374,10 +374,7 @@
 -analyzer:"/Applications/Unity/Hub/Editor/2023.2.10f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2023.2.10f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2023.2.10f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
-"Assets/Scripts/AnimationDemoGhost.cs"
-"Assets/Scripts/AnimationDemoPacStduent.cs"
 "Assets/Scripts/GenerateMap.cs"
-"Assets/Scripts/PacStudentWalking.cs"
 "Assets/Scripts/PlayRotation.cs"
 "Assets/Scripts/ProgressEvaluator.cs"
 -langversion:9.0
